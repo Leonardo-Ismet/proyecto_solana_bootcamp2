@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("poner cartera");
+declare_id!("8YDp7dMDYEZDcQmUbfDdfKvgfL3RSMo3AkvWADJVUGEu");
 
 #[program] // El codigo empieza desde aqui
 pub mod biblioteca {
